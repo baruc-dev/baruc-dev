@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**baruc-dev/baruc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Soy Baruc y Estás en mi Perfil 👨‍💻</h1>
 
-Here are some ideas to get you started:
+## Acerca de mi :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Soy Ingeniero en T.I
+- 👨‍💼 Emprenedor desde 2017 y contando
+- 👨‍💻 Programador entusiasta de la tecnología
+- 👨‍🏫 Profesor de programación y computación para jóvenes
+- 📕 Constantemente aprendiendo sobre lenguajes y nuevas herramientas
+  
+- ⚡ **Datos Random** : 🍕  🎥 🍣 🕹️ 🌮
+
+## Tecnologias que manejo :
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,ps,ai" />
+  </a>
+</p>
+
+
+
+
+
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
