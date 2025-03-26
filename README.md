@@ -26,6 +26,6 @@
 
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif"
        alt="snake" /></a>
 </div>
