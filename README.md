@@ -4,9 +4,7 @@
 ## Acerca de mi :
 
 - 👨‍🎓 Soy Ingeniero en T.I
-- 👨‍💼 Emprenedor desde 2018 y contando
 - 👨‍💻 Programador entusiasta de la tecnología
-- 👨‍🏫 Profesor de programación y computación para jóvenes
 - 📕 Constantemente aprendiendo sobre lenguajes y nuevas herramientas
   
 - ⚡ **Datos Random** : 🍕  🎥 🍣 🕹️ 🌮
