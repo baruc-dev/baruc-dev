@@ -8,7 +8,7 @@
 - 📕 Constantemente aprendiendo sobre lenguajes y nuevas herramientas
   
 - ⚡ **Datos Random** : 🍕  🎥 🍣 🕹️ 🌮
-
+<!--
 ## Tecnologias que manejo :
 <br>
 
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-
+-->
 
 
 
